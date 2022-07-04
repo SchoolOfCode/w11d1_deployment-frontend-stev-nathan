@@ -1,4 +1,5 @@
 import './App.css';
+import Form from './Form/form.js'
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
         <p>
           Hello World, from Steven and Nathan!
         </p>
+        <Form />
       </header>
     </div>
   );
