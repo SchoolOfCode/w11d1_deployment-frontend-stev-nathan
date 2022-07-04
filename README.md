@@ -6,10 +6,19 @@
  
 Practice taking turns to explain the answers to these questions:
  - What is Netlify?
+    Web development platform that allows users to deploy their websites and apps on the web.
+
  - What problems does Netlify solve?
+    Centralised deployment pipeline and workflow. Brings together lots of tools and APIs to streamline deployment.
+
  - When would you use it?
+    Whenever you have a website or app that you’d like others on the web to interact/engage with, without having to run it locally.
+
  - When would you not use it?
+    When your app does not need to be in the hands of many users. For example, if it were a small app that only serves your specific needs.
+
  - What are some alternatives/competitors to Netlify? (Just to know what else is out there.)
+    Heroku, Cloudflare, Amazon Cloudfront, Pantheon, Webflow, HubSpot, Umbraco, Platform.sh, GitLab, Render, Vercel.
 
 2. Initialise your React app with Create React App. 
  - It can just be the standard "Hello World" boilerplate.
